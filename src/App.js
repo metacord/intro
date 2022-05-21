@@ -19,7 +19,7 @@ function App() {
           <div className="flex flex-wrap mt-10 justify-center">
             <div className="m-3">
               <a
-                href="https://www.facebook.com/Metacord"
+                href="https://www.facebook.com/Meta-cord"
                 title="Metacord On Facebook"
                 className="md:w-32 bg-white tracking-wide text-gray-800 font-bold rounded border-2 border-blue-600 hover:border-blue-600 hover:bg-blue-600 hover:text-white shadow-md py-2 px-6 inline-flex items-center"
               >
@@ -28,7 +28,7 @@ function App() {
             </div>
             <div className="m-3">
               <a
-                href="https://twitter.com/metacord"
+                href="https://twitter.com/CordMeta"
                 title="Metacord On Twitter"
                 className="md:w-32 bg-white tracking-wide text-gray-800 font-bold rounded border-2 border-blue-500 hover:border-blue-500 hover:bg-blue-500 hover:text-white shadow-md py-2 px-6 inline-flex items-center"
               >
@@ -37,16 +37,16 @@ function App() {
             </div>
             <div className="m-3">
               <a
-                href="https://pinterest.com/metacord/"
-                title="Metacord On Pinterest"
+                href=""
+                title="Metacord On Discord"
                 className="md:w-32 bg-white tracking-wide text-gray-800 font-bold rounded border-2 border-red-600 hover:border-red-600 hover:bg-red-600 hover:text-white shadow-md py-2 px-6 inline-flex items-center"
               >
-                <span className="mx-auto">Pintrest</span>
+                <span className="mx-auto">Discord</span>
               </a>
             </div>
             <div className="m-3">
               <a
-                href="https://www.reddit.com/user/metacord/"
+                href="https://www.reddit.com/r/MetaCord/"
                 title="Metacord On Reddit"
                 className="md:w-32 bg-white tracking-wide text-gray-800 font-bold rounded border-2 border-orange-500 hover:border-orange-500 hover:bg-orange-500 hover:text-white shadow-md py-2 px-6 inline-flex items-center"
               >
