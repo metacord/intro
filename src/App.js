@@ -19,7 +19,7 @@ function App() {
           <div className="flex flex-wrap mt-10 justify-center">
             <div className="m-3">
               <a
-                href="https://www.facebook.com/Meta-cord"
+                href="https://www.facebook.com/people/Meta-Cord/100081032867051/"
                 title="Metacord On Facebook"
                 className="md:w-32 bg-white tracking-wide text-gray-800 font-bold rounded border-2 border-blue-600 hover:border-blue-600 hover:bg-blue-600 hover:text-white shadow-md py-2 px-6 inline-flex items-center"
               >
